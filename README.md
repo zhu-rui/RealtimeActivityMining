@@ -1,2 +1,2 @@
 # RealtimeActivityMining
-The event log of jEdit and Argouml SVN
+The event logs of jEdit and Argouml SVN
